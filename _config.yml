@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
- weibo_username:     东君vv
+#weibo_username:     东君vv
 zhihu_username:     DongJun
 github_username:    EastLord
 facebook_username:  DongJun
 jianshu_username:   东君East
-twitter_username:   DongJun
+#twitter_username:   DongJun
 
 
 
@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 53fae1a82f966c729b27dd140a230a9e00d680b6    #生成的clientSecret
   repo: eastlord.github.io    #仓库名称
   owner: EastLord    #github用户名
-  admin: qiubaiying
+  admin: EastLord
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
