@@ -74,8 +74,8 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
-
+ba_track_id: 6826672041cf329ee3c54d70574a5c1c
+               
 # Google Analytics
 ga_track_id: 'UA-116157427-1'            # Format: UA-xxxxxx-xx
 ga_domain: www.meltingpoint.cn              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
