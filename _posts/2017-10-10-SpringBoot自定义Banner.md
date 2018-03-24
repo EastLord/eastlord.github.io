@@ -32,18 +32,25 @@ tags:
 ```properties
 # BANNER   
 # Banner file encoding.   
+
 banner.charset=UTF-8   
 # Banner file location.   
+
 banner.location=classpath:banner.txt   
-# Banner image file location (jpg/png can also be used).    eg:classpath:banner.gif   
+# Banner image file location (jpg/png can also be used).    eg:classpath:banner.gif 
+
 banner.image.location=   
-# Width of the banner image in chars (default 76)   
+# Width of the banner image in chars (default 76)  
+
 banner.image.width=   
-# Height of the banner image in chars (default based on image height)   
+# Height of the banner image in chars (default based on image height)  
+
 banner.image.height=   
 # Left hand image margin in chars (default 2)   
+
 banner.image.margin=   
-# If images should be inverted for dark terminal themes (default false)   
+# If images should be inverted for dark terminal themes (default false) 
+
 banner.image.invert=   
 ```
 

@@ -1,7 +1,7 @@
 # Site settings
 title: EastLord Blog
 SEOTitle: 东君的博客 | EastLord Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-unix-linux.jpg
 email: qiutiandong@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 东君的博客, EastLord"
@@ -24,9 +24,6 @@ github_username:    EastLord
 facebook_username:  100009085921528
 jianshu_username:   2b20a4fa6cfa
 #twitter_username:   DongJun
-
-marked:
-  gfm: false
 
 
 # Build settings
