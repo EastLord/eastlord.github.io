@@ -25,7 +25,8 @@ facebook_username:  100009085921528
 jianshu_username:   2b20a4fa6cfa
 #twitter_username:   DongJun
 
-
+marked:
+  gfm: false
 
 
 # Build settings
